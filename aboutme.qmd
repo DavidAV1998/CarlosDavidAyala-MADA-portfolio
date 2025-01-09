@@ -2,6 +2,26 @@
 title: "About me"
 ---
 
-Add some text and a figure describing myself.
+## Introduction
 
-For details, see the exercise instructions. 
+My name is Carlos David Ayala Velastegui, but I prefer to be called David. I'm 26 years old. I'm a second year Master's student, transitioning to a PhD at the Comparative Biomedical Sciences program from the Population Health Department.
+
+![](FB_IMG_1736381748776.jpg){fig-align="center" width="130"}
+
+## Background
+
+I'm a Bachelor in Veterinary Medicine graduated from Ecuador. I have worked with *E. coli* isolated from poultry and UTIs in humans during my undergraduate degree, which was focused on identifying genes harbored in plasmid that confer resistance to fosfomycin and third generation cephalosporins, and characterize these plasmids by their incompatibility groups.
+
+## Research interests
+
+Currently, I'm working on the Shariat's lab in *Salmonella* genomics, and characterization of multiserovar populations through the poultry chain production. Also, I'm working with ONT so I have found this webpage really useful, if you are planning to work with the platform, I think \[**this link might be useful for you too**\](<https://long-read-tools.org>)
+
+My area of interest is focused on phylogenetics, genomic analysis, and mobile genetic elements.
+
+## Bioinformatics background
+
+I've learned a little bit of R when I took the Introduction to Coding in R (EPID7500) last fall, and Statistical Inference for Life Sciences (BINF8441) last spring. Since I started the Master's I've been leaning to bioinformatics, which is not my forte based on my background in Veterinary Medicine, but the more I work on Bioinformatics, the more I like it, so I'm really looking forward on getting the Bioinformatic Certificate.
+
+## Expectations of the course
+
+From this course I expect to improve my skills on the use of R, and GitHub, because it is necessary for our professional development to use these tools for either generate powerful information for papers, and be able to share the information with the scientific community.
