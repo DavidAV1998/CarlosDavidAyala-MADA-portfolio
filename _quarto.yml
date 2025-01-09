@@ -19,7 +19,7 @@ website:
         href: https://github.com/DavidAV1998/CarlosDavidAyala-MADA-portfolio       
 format:
   html:
-    theme: morph
+    theme: superhero
     highlight: zenburn
     css: styles.css
     toc: FALSE
